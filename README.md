@@ -30,7 +30,7 @@ Zakładka **Actions** → **Aktualizacja kodów NFZ i publikacja strony** → **
 
 | Plik | Do czego służy |
 | --- | --- |
-| `index.html` | cała aplikacja |
+| `index.html`, `app.js` | cała aplikacja |
 | `data/icd9.json` | słownik (10 059 kodów w wersji 5.90) |
 | `data/meta.json` | numer wersji i data ostatniego sprawdzenia NFZ |
 | `sw.js`, `manifest.webmanifest`, ikony | instalacja na telefonie i praca bez internetu |
